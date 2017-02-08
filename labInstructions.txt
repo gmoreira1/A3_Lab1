@@ -13,6 +13,9 @@ Add AJAX functionality to a working branch; push it to your repo:
 
 5. Create a new working branch (dev.addingAjax)
 
+
+
+
 6. Download and unpack the lab files into this folder
 
 7. Make the AJAX part functional (retrieve the data, populate the elements)
